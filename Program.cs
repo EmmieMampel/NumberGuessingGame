@@ -38,14 +38,4 @@ namespace NumberGuessingGame
             } while (win == false);
         }
     }
-
-
-
-
-
-
-
-
-
-
 }
